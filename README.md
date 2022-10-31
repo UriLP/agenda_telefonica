@@ -1,6 +1,6 @@
 <p align='right'>
-  <img src='https://img.shields.io/badge/Version-1.0.0-blue?style=flat-square' />
-  <img src='https://img.shields.io/badge/Status-Developing-green?style=flat-square' />
+  <img src='https://img.shields.io/badge/Versión-1.0.0-blue?style=flat-square' />
+  <img src='https://img.shields.io/badge/Estatus-Terminado-green?style=flat-square' />
 </p>
 
 <h1> Agenda Telefonica Front-End </h1>
