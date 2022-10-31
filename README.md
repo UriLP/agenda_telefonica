@@ -8,7 +8,7 @@
 <br>
 
 <h2> Agenda Telefonica Back-End </h2>
-<p> Para que el proyecto funcione tienes que tener la parte del Back-End funcionando en el servidor: </p>
+<p> Para que el proyecto funcione tienes que tener la parte del Back-End ejecutandose en el servidor: </p>
 <a href="https://github.com/UriLP/agenda_telefonica_backend" target="_blank" >Agenda Telefonica Back-End</a>
 <br><br>
 <p> Ahí puedes encontrar más instrucciones para iniciar el servidor y la base de datos. </p>
