@@ -3,11 +3,11 @@
   <img src='https://img.shields.io/badge/Estatus-Terminado-green?style=flat-square' />
 </p>
 
-<h1> Agenda Telefonica Front-End </h1>
+<h1> Agenda Telefónica Front-End </h1>
 <p> Web desarrollada con HTML, JS y Bootstrap consumiendo una Api con Symfony para una Agenda Telefónica. </p>
 <br>
 
-<h2> Agenda Telefonica Back-End </h2>
+<h2> Agenda Telefónica Back-End </h2>
 <p> Para que el proyecto funcione tienes que tener la parte del Back-End ejecutandose en el servidor: </p>
 <a href="https://github.com/UriLP/agenda_telefonica_backend" target="_blank" >Agenda Telefonica Back-End</a>
 <br><br>
